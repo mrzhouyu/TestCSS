@@ -1,0 +1,19 @@
+#tableid{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+#tableid td,#tableid th{
+border: 1px solid black;
+    padding: 3px;
+    background-color: #b3d4fc;
+    text-align: center;
+}
+#tableid th{
+    text-align: center;
+    background-color: yellow;
+    color: red;
+}
+#tableid tr.trclass td{
+    color: antiquewhite;
+    background-color: blue;
+}

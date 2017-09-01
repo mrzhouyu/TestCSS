@@ -1,0 +1,30 @@
+#idone{
+    left: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+}
+#idtwo{
+        width: 100px;
+    height: 100px;
+    background-color: red;
+    float: left;
+
+
+}
+#idthree{
+        width: 100px;
+    height: 100px;
+    background-color: aqua;
+    float: left;
+}
+#idfour{
+
+    width: 250px;
+    height: 350px;
+    background-color: #999999;
+}
+#idfive{
+    clear: both;
+}

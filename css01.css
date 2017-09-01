@@ -1,0 +1,21 @@
+#baidu{
+    font-size: larger;
+    font-family: "Adobe 繁黑體 Std B";
+    color: bisque;
+    font-style: normal;
+}
+
+body{
+    color: #b3d4fc;
+}
+
+h1,h2{
+    color: red;
+}
+p{
+    color: aqua;
+}
+
+li strong{
+    color: #888888;
+}

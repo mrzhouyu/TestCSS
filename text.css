@@ -1,0 +1,17 @@
+body{
+    color: black;
+    text-align: left;
+    line-height: 1em;
+    text-shadow: 5px 5px 1px red;
+}
+
+#p1{
+    text-transform: uppercase;
+
+}
+#p2{
+    text-transform: capitalize;
+}
+#p3{
+    text-transform: lowercase;
+}

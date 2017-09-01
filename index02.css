@@ -1,0 +1,9 @@
+body{
+    background-color: #b3d4fc;
+}
+ol{
+    background-image: url("image.jpg");
+    background-attachment: fixed;
+    background-position: center top;
+    background-repeat: no-repeat;
+}

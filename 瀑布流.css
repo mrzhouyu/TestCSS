@@ -1,0 +1,10 @@
+.classimg{
+    -webkit-column-width: 250px;
+    -webkit-column-gap: 10px;
+
+}
+.classimg div{
+    width: 250px;
+    margin: 5px;
+
+}
